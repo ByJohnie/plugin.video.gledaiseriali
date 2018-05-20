@@ -3,6 +3,7 @@
     
     <!-- login -->
     <string id="1000">Настройки на добавката</string>
+    <string id="101">ocr.space key</string>
     <string id="104">Openload субтитри</string>
     
 </strings>
